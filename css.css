@@ -129,6 +129,7 @@ nav{
     justify-content: center;
     justify-self: center;
     padding-top: 2rem;
+    z-index: 0;
 }
 .Home_sticker{
     width: 40px;
